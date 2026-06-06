@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=KhoaTheBest&layout=compact&theme=dark&bg_color=000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b&count_private=true
+          options: username=KhoaTheBest&layout=compact&theme=dark&bg_color=000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b&count_private=true&hide=html,css,scss
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_PAT }}
 
@@ -37,5 +37,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p profile
           git add profile/*.svg || true
-          git commit -m "chore: update README stats with all-time and private commits" || exit 0
+          git commit -m "chore: update README stats with filtered top languages" || exit 0
           git push origin main
