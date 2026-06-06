@@ -20,7 +20,6 @@ role: Senior Full Stack Engineer
 location: London, United Kingdom (UTC+1)
 experience: 12+ Years
 specialties: Full-Stack Architecture, Video/Media Engineering, DevOps, AI Workflows
-availability: Open to U.S. remote contractor & freelance opportunities
 ```
 
 ---
