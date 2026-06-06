@@ -97,8 +97,8 @@ I work comfortably in AI-assisted, spec-driven environments and regularly levera
 ### 📊 `khoa --stats`
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhoaTheBest&show_icons=true&theme=dark&bg_color=000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaTheBest&layout=compact&theme=dark&bg_color=000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b" height="165" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
 </p>
 
 ---
