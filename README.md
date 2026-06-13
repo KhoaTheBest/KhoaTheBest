@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-khoalt.dev-10B981?style=for-the-badge&logo=netlify&logoColor=white)](https://khoalt.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khoalt.dev-10B981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://khoalt.dev)
 [![Location](https://img.shields.io/badge/London-UK-005A9C?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-khoalt25791-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoalt25791@gmail.com)
 
@@ -46,16 +46,8 @@ I focus on **reducing operational complexity**, **optimizing cloud infrastructur
 
 ## 📁 `khoa --view projects.db`
 
-| | Project | What it is |
+| | Project | High-Value Contribution |
 |---|---------|-----------|
-| 🎨 | **[psd-layer-extractor](https://github.com/KhoaTheBest/psd-layer-extractor)** | Browser-based Photoshop (PSD) parser and layer tree extractor. Offloads complex layer hierarchy, text styling, and image slicing client-side. |
-| 🎬 | **[in-browser-video-renderer](https://github.com/KhoaTheBest/in-browser-video-renderer)** | Serverless client-side video composition and WebCodecs-based rendering pipeline. Converts WebM frames into standard MP4 via WASM ffmpeg. |
-| ⚡ | **[remotion-vram-optimizer](https://github.com/KhoaTheBest/remotion-vram-optimizer)** | Memory-efficient client-side image proxying and sequential thread optimizer. Prevents Chrome OOM/VRAM crashes with heavy 4K+ assets. |
-| 🌿 | **[creative-asset-flow](https://github.com/KhoaTheBest/creative-asset-flow)** | Interactive flowchart visualizer and dependency tree mapper built with React Flow to visualize layout bindings for dynamic creatives. |
-| ⚙️ | **[client-side-media-processor](https://github.com/KhoaTheBest/client-side-media-processor)** | WebAssembly-powered image and video preprocessing, validation, and normalization pipeline (JSquash resizing/WebP conversion). |
-| 💾 | **[opfs-media-cache](https://github.com/KhoaTheBest/opfs-media-cache)** | Multi-threaded client-side cache and file storage layer utilizing Origin Private File System (OPFS) and Comlink Web Workers. |
-
----|---------|-----------|
 | 🌐 | **[khoalt.dev](https://github.com/KhoaTheBest/khoa-portfolio)** | High-fidelity personal portfolio. Features full monospace layout, dynamic tab selections, and responsive mobile rendering. |
 | 🤖 | **[opcode-clone](https://github.com/KhoaTheBest/opcode-clone)** | An advanced wrapper toolkit for Claude Code, enabling concurrent session management, background test runners, and desktop alerts. |
 | 🎬 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | Client-side media execution showcase. Eliminates server-side rendering costs by running clip-stitching pipelines directly in the browser. |
