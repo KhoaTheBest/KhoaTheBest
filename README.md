@@ -10,49 +10,48 @@
 
 </div>
 
-*I translate complex specifications into high-performance, bulletproof software.*
+*I help companies build high-performance products, integrate advanced AI workflows, and optimize cloud infrastructure for maximum delivery velocity.*
 
 ---
 
 ## 💻 `khoa --status`
 
 ```yaml
-role: Senior Full Stack Engineer
+role: Senior Full-Stack Consultant
 location: London, United Kingdom (UTC+1)
-experience: 12+ Years
-specialties: Full-Stack Architecture, Video/Media Engineering, DevOps, AI Workflows
+availability: Open to global remote contractor contracts
+specialties: Full-Stack Architecture, Video/Media Engineering, Cloud Infrastructure, AI Systems
 ```
 
 ---
 
 ## 📁 `khoa --view README.md`
 
-With **12+ years of experience** building full-stack products across front-end, back-end, and cloud infrastructure, I focus on practical systems that require high performance, reliability, and high development velocity. 
+With **12+ years of professional engineering experience** building high-throughput applications across the UK and APAC, I serve as a remote contractor and technical consultant for modern product teams. 
 
-I work comfortably in AI-assisted, spec-driven environments and regularly leverage advanced tools to accelerate implementation and improve code quality.
+I focus on **reducing operational complexity**, **optimizing cloud infrastructure costs**, and **shipping robust, spec-driven features** rapidly. I collaborate seamlessly with product managers, designers, and engineering teams under agile, async-first workflows.
+
+---
+
+## 📁 `khoa --view services.db`
+
+| Specialization | What I deliver | Core Technologies |
+|----------------|----------------|-------------------|
+| **Product Engineering** | Scalable, pixel-perfect web systems, high-fidelity responsive front-ends, and real-time backend integrations. | React, Next.js, Node.js, TypeScript, Astro |
+| **Video & Media Pipelines** | High-performance client-side and serverless video rendering, clip manipulation, and automated thumbnail engines. | Remotion, FFmpeg, Mediabunny, Python |
+| **Cloud & DevOps Audits** | VPS hardening, automated dependency pipelines, Docker/Kubernetes containerization, and cost-reduction audits. | AWS, GCP, Terraform, Bash, Nginx |
+| **AI Workflow Systems** | Building Agent-Generated UI (AG-UI) patterns, custom AI tooling, and integration of advanced LLM developer workflows. | Claude Code, Cursor, CopilotKit, OpenAI |
 
 ---
 
 ## 📁 `khoa --view projects.db`
 
-| | Project | What it is |
+| | Project | High-Value Contribution |
 |---|---------|-----------|
-| 🌐 | **[khoalt.dev](https://github.com/KhoaTheBest/khoa-portfolio)** | My personal portfolio website. Pure-monospace, solid-black terminal aesthetic built with Astro, Tailwind CSS, and HTML5. |
-| 🤖 | **[opcode-clone](https://github.com/KhoaTheBest/opcode-clone)** | A powerful desktop GUI and toolset wrapper for Claude Code CLI, offering background tasks, multi-agent management, and session visualization. |
-| 🎨 | **[psd-layer-extractor](https://github.com/KhoaTheBest/psd-layer-extractor)** | Browser-based Photoshop (PSD) parser and layer tree extractor. Offloads complex layer hierarchy, text styling, and image slicing client-side. |
-| 🎬 | **[in-browser-video-renderer](https://github.com/KhoaTheBest/in-browser-video-renderer)** | Serverless client-side video composition and WebCodecs-based rendering pipeline. Converts WebM frames into standard MP4 via WASM ffmpeg. |
-| ⚡ | **[remotion-vram-optimizer](https://github.com/KhoaTheBest/remotion-vram-optimizer)** | Memory-efficient client-side image proxying and sequential thread optimizer. Prevents Chrome OOM/VRAM crashes with heavy 4K+ assets. |
-| 🌿 | **[creative-asset-flow](https://github.com/KhoaTheBest/creative-asset-flow)** | Interactive flowchart visualizer and dependency tree mapper built with React Flow to visualize layout bindings for dynamic creatives. |
-| ⚙️ | **[client-side-media-processor](https://github.com/KhoaTheBest/client-side-media-processor)** | WebAssembly-powered image and video preprocessing, validation, and normalization pipeline (JSquash resizing/WebP conversion). |
-| 💾 | **[opfs-media-cache](https://github.com/KhoaTheBest/opfs-media-cache)** | Multi-threaded client-side cache and file storage layer utilizing Origin Private File System (OPFS) and Comlink Web Workers. |
-| 🎬 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | React + MediaBunny frontend application demonstrating real-time in-browser video manipulation, clipping, and clip stitching. |
-| 🛠️ | **[vps-bootstrap](https://github.com/KhoaTheBest/vps-bootstrap)** | Automated bash bootstrap scripts for hardening Linux VPS servers and setting up developer/Docker environments. |
-
----|---------|-----------|
-| 🌐 | **[khoalt.dev](https://github.com/KhoaTheBest/khoa-portfolio)** | My personal portfolio website. Pure-monospace, solid-black terminal aesthetic built with Astro, Tailwind CSS, and HTML5. |
-| 🤖 | **[opcode-clone](https://github.com/KhoaTheBest/opcode-clone)** | A powerful desktop GUI and toolset wrapper for Claude Code CLI, offering background tasks, multi-agent management, and session visualization. |
-| 🎬 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | React + MediaBunny frontend application demonstrating real-time in-browser video manipulation, clipping, and clip stitching. |
-| 🛠️ | **[vps-bootstrap](https://github.com/KhoaTheBest/vps-bootstrap)** | Automated bash bootstrap scripts for hardening Linux VPS servers and setting up developer/Docker environments. |
+| 🌐 | **[khoalt.dev](https://github.com/KhoaTheBest/khoa-portfolio)** | High-fidelity personal portfolio. Features full monospace layout, dynamic tab selections, and responsive mobile rendering. |
+| 🤖 | **[opcode-clone](https://github.com/KhoaTheBest/opcode-clone)** | An advanced wrapper toolkit for Claude Code, enabling concurrent session management, background test runners, and desktop alerts. |
+| 🎬 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | Client-side media execution showcase. Eliminates server-side rendering costs by running clip-stitching pipelines directly in the browser. |
+| 🛠️ | **[vps-bootstrap](https://github.com/KhoaTheBest/vps-bootstrap)** | Security-first script suite for automated server setup: configures SSH hardening, UFW firewall, fail2ban, and container environments. |
 
 ---
 
