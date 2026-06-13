@@ -38,7 +38,7 @@ I focus on **reducing operational complexity**, **optimizing cloud infrastructur
 | Specialization | What I deliver | Core Technologies |
 |----------------|----------------|-------------------|
 | **Product Engineering** | Scalable, pixel-perfect web systems, high-fidelity responsive front-ends, and real-time backend integrations. | React, Next.js, Node.js, TypeScript, Astro |
-| **Video & Media Pipelines** | High-performance client-side and serverless video rendering, clip manipulation, and automated thumbnail engines. | Remotion, FFmpeg, Mediabunny, Python |
+| **Video & Media Pipelines** | High-performance client-side and serverless video rendering, clip manipulation, and automated thumbnail engines. | Remotion, FFmpeg, FFmpeg.wasm, Python |
 | **Cloud & DevOps Audits** | VPS hardening, automated dependency pipelines, Docker/Kubernetes containerization, and cost-reduction audits. | AWS, GCP, Terraform, Bash, Nginx |
 | **AI Workflow Systems** | Building Agent-Generated UI (AG-UI) patterns, custom AI tooling, and integration of advanced LLM developer workflows. | Claude Code, Cursor, CopilotKit, OpenAI |
 
@@ -48,13 +48,11 @@ I focus on **reducing operational complexity**, **optimizing cloud infrastructur
 
 | | Project | High-Value Contribution |
 |---|---------|-----------|
-| 🌐 | **[khoalt.dev](https://github.com/KhoaTheBest/khoa-portfolio)** | High-fidelity personal portfolio. Features full monospace layout, dynamic tab selections, and responsive mobile rendering. |
-| 🎨 | **[psd-layer-extractor](https://github.com/KhoaTheBest/psd-layer-extractor)** <br/> <sub>[Live Demo](https://psd.khoalt.dev)</sub> | High-performance client-side Adobe Photoshop (PSD) parser and layer tree extraction engine. |
-| 🎥 | **[client-side-media-processor](https://github.com/KhoaTheBest/client-side-media-processor)** <br/> <sub>[Live Demo](https://media-processor.khoalt.dev)</sub> | WebAssembly-powered media preprocessing, normalization, and validation pipeline. |
-| 💾 | **[opfs-media-cache](https://github.com/KhoaTheBest/opfs-media-cache)** <br/> <sub>[Live Demo](https://opfs-cache.khoalt.dev)</sub> | Multi-threaded client-side caching and storage engine leveraging Origin Private File System (OPFS). |
-| 🤖 | **[opcode-clone](https://github.com/KhoaTheBest/opcode-clone)** | An advanced wrapper toolkit for Claude Code, enabling concurrent session management, background test runners, and desktop alerts. |
-| 🎬 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | Client-side media execution showcase. Eliminates server-side rendering costs by running clip-stitching pipelines directly in the browser. |
-| 🛠️ | **[vps-bootstrap](https://github.com/KhoaTheBest/vps-bootstrap)** | Security-first script suite for automated server setup: configures SSH hardening, UFW firewall, fail2ban, and container environments. |
+| 🪡 | **[video-stitching-frontend](https://github.com/KhoaTheBest/video-stitching-frontend)** | High-performance React application for center-cropping, trimming, and stitching video segments entirely in-browser. |
+| ⚡ | **[remotion-vram-optimizer](https://github.com/KhoaTheBest/remotion-vram-optimizer)** | Sequential compiler boundaries & async web worker image proxies to eliminate VRAM OOM crashes in web players. |
+| 📁 | **[psd-layer-extractor](https://github.com/KhoaTheBest/psd-layer-extractor)** | Browser-based Photoshop (PSD) parser utilizing Web Workers to extract full layers and shape hierarchies. |
+| 💾 | **[opfs-media-cache](https://github.com/KhoaTheBest/opfs-media-cache)** | Multi-threaded client-side caching layer for large media assets utilizing the browser's Origin Private File System (OPFS). |
+| 🛠️ | **[client-side-media-processor](https://github.com/KhoaTheBest/client-side-media-processor)** | WebAssembly-powered media preprocessing (JSquash resizing/compression) and verification pipeline. |
 
 ---
 
