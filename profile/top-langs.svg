@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="190"
-        viewBox="0 0 300 190"
+        height="165"
+        viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -130,17 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="88.45"
-          height="8"
-          fill="#701516"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="88.45"
-          y="0"
-          width="79.86"
+          width="123.58"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="168.31"
+          x="123.58"
           y="0"
-          width="41.05"
+          width="63.51"
           height="8"
           fill="#ff5a03"
         />
@@ -158,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="209.36"
+          x="187.09"
           y="0"
-          width="26.36"
+          width="40.79"
           height="8"
           fill="#3178c6"
         />
@@ -168,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.72000000000003"
+          x="227.88"
           y="0"
-          width="17.73"
+          width="11.96"
           height="8"
           fill="#41b883"
         />
@@ -178,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.45000000000002"
+          x="239.84"
           y="0"
-          width="14.67"
+          width="17.22"
           height="8"
           fill="#844FBA"
         />
@@ -188,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.12"
+          x="247.06"
           y="0"
-          width="11.89"
+          width="12.93"
           height="8"
           fill="#4F5D95"
         />
@@ -199,51 +189,44 @@
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#701516" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Ruby 35.38%
+        JavaScript 49.43%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 31.94%
+        Astro 25.41%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#ff5a03" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 16.42%
-      </text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 10.54%
+        TypeScript 16.32%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#41b883" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue 3.09%
+        Vue 4.78%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#844FBA" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HCL 1.87%
+        HCL 2.89%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 0.76%
+        PHP 1.17%
       </text>
     </g>
   </g></g>
