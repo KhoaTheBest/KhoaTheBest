@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Khoa Le's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 16850, Total PRs: 2034, Total Issues: 6, Contributed to (last year): 49</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 16853, Total PRs: 2034, Total Issues: 6, Contributed to (last year): 49</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #3b82f6;
+            fill: #10B981;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #3b82f6;
+      fill: #10B981;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #3b82f6;
+      stroke: #10B981;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #3b82f6;
+      stroke: #10B981;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.86145199436778;
+        stroke-dashoffset: 125.86145125777331;
       }
     }
   
