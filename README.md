@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://khoa-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-khoa--portfolio.netlify.app-3B82F6?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+  <a href="https://khoalt.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-khoalt.dev-10B981?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:khoalt25791@gmail.com">
     <img src="https://img.shields.io/badge/Email-khoalt25791%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
