@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-khoalt.dev-10B981?style=for-the-badge&logo=netlify&logoColor=white)](https://khoalt.dev)
 [![Location](https://img.shields.io/badge/London-UK-005A9C?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-khoalt25791-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khoalt25791@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khoale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoa-le-senior-engineer)
 
 </div>
 
