@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=KhoaTheBest&show_icons=true&theme=dark&bg_color=000000&title_color=3b82f6&icon_color=3b82f6&text_color=e2e8f0&border_color=1e293b&count_private=true&include_all_commits=true
+          options: username=KhoaTheBest&show_icons=true&theme=dark&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=e2e8f0&border_color=1e293b&count_private=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.STATS_PAT }}
 

@@ -111,8 +111,8 @@ I work comfortably in AI-assisted, spec-driven environments and regularly levera
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhoaTheBest&show_icons=true&theme=dark&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=e2e8f0&border_color=1e293b&count_private=true&include_all_commits=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaTheBest&layout=compact&theme=dark&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=e2e8f0&border_color=1e293b&count_private=true&hide=html,css,scss,shell,ruby&langs_count=8&hide_border=true" />
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br/><br/>
 
