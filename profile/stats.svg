@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Khoa Le's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  : 17374, Total PRs: 2123, Total Issues: 7, Contributed to (last year): 47</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  : 17375, Total PRs: 2127, Total Issues: 7, Contributed to (last year): 47</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.37640157663351;
+        stroke-dashoffset: 125.37640140576194;
       }
     }
   
